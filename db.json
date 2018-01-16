@@ -1,0 +1,69 @@
+[
+  {
+    "runs": [
+      {
+        "routeId": 85,
+        "routeName": "AniTest",
+        "shuttleName": "88",
+        "shuttleId": 44,
+        "pickupLocation": {
+          "id": null,
+          "name": "UNKNOWN",
+          "abbreviation": "UNK",
+          "latitude": null,
+          "longitude": null,
+          "isStop": null,
+          "isGarage": null,
+          "address": null,
+          "city": null,
+          "stateName": null,
+          "zipCode": null,
+          "timePaddingSec": null,
+          "status": null
+        },
+        "dropOffLocation": {
+          "id": 1,
+          "name": "RMZ",
+          "abbreviation": "RMZ",
+          "latitude": 12.971113,
+          "longitude": 80.24464,
+          "isStop": true,
+          "isGarage": false,
+          "address": null,
+          "city": null,
+          "stateName": null,
+          "zipCode": null,
+          "timePaddingSec": 120,
+          "status": "ACTIVE"
+        },
+        "pickupTime": null,
+        "dropoffTime": null,
+        "numberOfPassengers": 1,
+        "routeStartTime": 1515909601000,
+        "routeEndTime": 1515752100000,
+        "noOfStops": 5,
+        "lastKnownLocation": {
+          "id": 1,
+          "name": "RMZ",
+          "abbreviation": "RMZ",
+          "latitude": 12.971113,
+          "longitude": 80.24464,
+          "isStop": true,
+          "isGarage": false,
+          "address": null,
+          "city": null,
+          "stateName": null,
+          "zipCode": null,
+          "timePaddingSec": 120,
+          "status": "ACTIVE"
+        },
+        "inService": false,
+        "rideStatus": "COMPLETED",
+        "requestStatus": "Complete"
+      }
+    ],
+    "noOfCompletedRuns": 1,
+    "noOfActiveRuns": 2,
+    "noOfScheduledRuns": 3
+  }
+]
